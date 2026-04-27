@@ -7,4 +7,4 @@ compatibility_flags    = ["nodejs_compat"]
   NODE_VERSION = "22.13.1"
 
 # wrangler.toml
-wrangler pages deploy = 'nwsgroup'
+# wrangler pages deploy = 'nwsgroup'
